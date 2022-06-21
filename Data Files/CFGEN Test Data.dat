@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>CFGEN Test Data</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>0be97c71-e042-43bb-9335-d95cb79321a3</dataFileGUID>
+   <dataSourceUrl>jdbc:sqlserver://172.18.136.163:1433;RP_INDIVIDUAL=DB_NAME</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>UEBzc3cwcmQ=</password>
+   <query>SELECT TOP (1000) [VALID_ON]
+      ,[POSISI]
+      ,[BRANCH]
+      ,[MAINBR]
+      ,[REGION]
+      ,[RGNAME]
+      ,[ACCTNO]
+      ,[CIFNO]
+      ,[CFSNME]
+      ,[RATE]
+      ,[BIKOLE]
+      ,[CBAL]
+      ,[CBAL_BASE]
+      ,[DATOPN_DT]
+      ,[MATDT_DT]
+      ,[CURTYP]
+      ,[ORGAMT]
+      ,[ORGAMT_BASE]
+      ,[STATUS]
+      ,[STSDT_DT]
+      ,[TYPE]
+      ,[CFAREF]
+      ,[NAMA_AO]
+      ,[FREQ]
+      ,[FRCODE]
+      ,[IPFREQ]
+      ,[IPCODE]
+      ,[ANGSURAN_PP]
+      ,[SISA_BLN]
+      ,[STS_LAMA]
+      ,[OWNER]
+      ,[KOL_ADK]
+      ,[FKSEGMEN]
+      ,[CBAL_BRINETS]
+      ,[CBAL_BASE_BRINETS]
+      ,[NILAI_TERCATAT]
+      ,[EIR]
+      ,[CKPN]
+      ,[KURS]
+      ,[PV_TOTAL]
+      ,[NILAI_TERCATAT_BASE]
+      ,[CKPN_BASE]
+      ,[PURVAL_BASE]
+FROM [RP_INDIVIDUAL].[dbo].[CFGEN_ACCOUNT]</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>sa</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

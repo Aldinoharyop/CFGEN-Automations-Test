@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Skenario  Sensitivity Income</name>
+   <tag></tag>
+   <elementGuidId>74e85ae0-3cb7-487b-a833-04406c0e4009</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div[2]/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6fd737c7-0a3f-48c8-ab8c-f2f8a4085bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#tab6</value>
+      <webElementGuid>7fc26ad9-f1dc-454a-a2fe-7829a7c9d999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>523c1009-b713-44c4-b108-a432c267f493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Skenario &amp; Sensitivity Income</value>
+      <webElementGuid>75e893d1-2418-435c-a6ed-af552fa710e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;well fix&quot;]/div[1]/ul[@class=&quot;nav nav-tabs&quot;]/li[3]/a[1]</value>
+      <webElementGuid>cd9b015d-3497-48c4-ac6e-53c9da8a8c3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[2]/div/ul/li[3]/a</value>
+      <webElementGuid>3f070800-e4e2-4205-97dd-d00a34237437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Skenario &amp; Sensitivity Income')]</value>
+      <webElementGuid>f27e9b66-5bd2-4de7-9283-311d29d8e0a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cashflow'])[1]/following::a[1]</value>
+      <webElementGuid>4bd25848-f41e-45cf-8dc4-a62669ff85f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analisis Kualitatif'])[1]/following::a[2]</value>
+      <webElementGuid>e2fb1309-83cf-4bc4-9138-1023449a5ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analisis Agunan'])[1]/preceding::a[1]</value>
+      <webElementGuid>1181bb25-3f76-4955-b1f6-522de36a5ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokumen'])[1]/preceding::a[2]</value>
+      <webElementGuid>544de5dd-8ced-4a07-816b-11c36fdc2b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Skenario &amp; Sensitivity Income']/parent::*</value>
+      <webElementGuid>86a9744a-c56c-4aab-88b0-f99c105e663d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#tab6')]</value>
+      <webElementGuid>3dd83404-8e8c-414c-b9d7-b308b1827305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/ul/li[3]/a</value>
+      <webElementGuid>99daeb1d-ddfd-448b-bd56-281bc6c951c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#tab6' and (text() = 'Skenario &amp; Sensitivity Income' or . = 'Skenario &amp; Sensitivity Income')]</value>
+      <webElementGuid>37efc719-43aa-416c-8030-5082beb6ab2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add Data Tanpa CIF (Negatif)</description>
+   <name>Add Data_Simpan Tanpa CIF</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c7d3db1-ebe9-44d8-ba70-95c77d156721</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Penyebab Kredit Bermasalah</name>
+   <tag></tag>
+   <elementGuidId>93b04370-ea42-4a1f-a350-e704af50e9b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div[2]/form/table/tbody/tr[5]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ccd9ed9b-d21a-41e8-b6ca-5e36c518d926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penyebab Kredit Bermasalah</value>
+      <webElementGuid>2de06f5a-0024-4bdd-aa14-136c93450b6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;well fix&quot;]/form[1]/table[@class=&quot;table&quot;]/tbody[1]/tr[5]/td[1]</value>
+      <webElementGuid>ca61805c-b40c-4059-816b-8348eff79192</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div[2]/form/table/tbody/tr[5]/td</value>
+      <webElementGuid>e8ef510d-869f-45d9-b40b-d8172bc386d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kemampuan Bayar Debitur'])[1]/following::td[2]</value>
+      <webElementGuid>f17b0076-d99e-4c60-8ad4-f41ef71c1202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kondisi Usaha Saat Ini'])[1]/following::td[4]</value>
+      <webElementGuid>df5bb26b-1cc8-434d-8c43-66ef107e74aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PTPN X menjadi bagian restrukturisasi PTPN Group'])[1]/preceding::td[1]</value>
+      <webElementGuid>b06e7fb5-7fe2-49b2-8e58-c8e9ae0f1cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/table/tbody/tr[5]/td</value>
+      <webElementGuid>b10414ad-cf0c-4b9d-8c6f-a8c8c8ce621c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Penyebab Kredit Bermasalah' or . = 'Penyebab Kredit Bermasalah')]</value>
+      <webElementGuid>82032975-541b-4620-bcc3-e6c97ad59a82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

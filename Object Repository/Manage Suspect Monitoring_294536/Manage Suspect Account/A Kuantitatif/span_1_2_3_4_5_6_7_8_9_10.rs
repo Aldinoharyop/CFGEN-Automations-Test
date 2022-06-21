@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1_2_3_4_5_6_7_8_9_10</name>
+   <tag></tag>
+   <elementGuidId>b72e7741-4e6f-4698-8a9d-0d27b262b00a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uniform-quest5op2']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#uniform-quest5op2 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d2831071-173c-4bdb-a140-68d04c9f283f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uniform-quest5op2&quot;)/span[1]</value>
+      <webElementGuid>d9624464-8cd6-4f13-b4a0-adbb46047524</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uniform-quest5op2']/span</value>
+      <webElementGuid>e00dd4b3-8bb4-4141-bcdb-791cd73a59d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non-Defered'])[1]//span[1]</value>
+      <webElementGuid>800e16c4-df77-4e61-96d4-84a114c8d77d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Defered'])[1]/following::span[1]</value>
+      <webElementGuid>212c0eff-f797-4e33-8f1b-57ccaab6c84b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Debitur'])[2]/preceding::span[1]</value>
+      <webElementGuid>2cf61752-d6d3-4981-812d-a0c96fa0d334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[11]/preceding::span[1]</value>
+      <webElementGuid>ed122d44-c8ea-4d96-bea2-722acbd30a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td/label[2]/div/span</value>
+      <webElementGuid>4cc327dc-ceb2-4b08-ae82-b87092f8e369</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

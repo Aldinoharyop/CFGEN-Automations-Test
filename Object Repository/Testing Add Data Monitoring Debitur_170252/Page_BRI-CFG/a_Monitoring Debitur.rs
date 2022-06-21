@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Monitoring Debitur</name>
+   <tag></tag>
+   <elementGuidId>6c215398-f880-4f46-90d5-1e635abff676</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar-left']/div/ul/li[2]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.drop1 > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>871726b3-9416-4b9d-8015-c302a7d035a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://172.18.136.165:1097/c_suspect_amk</value>
+      <webElementGuid>02d742f0-519e-4ce3-9ba0-8bdef8c2d8b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monitoring Debitur</value>
+      <webElementGuid>def198e5-3c7e-4874-8ded-be000edef4a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-left&quot;)/div[@class=&quot;nav-collapse sidebar-nav&quot;]/ul[@class=&quot;nav nav-tabs nav-stacked main-menu&quot;]/li[2]/ul[@class=&quot;drop1&quot;]/li[1]/a[1]</value>
+      <webElementGuid>fa96507d-6c37-40f8-aabd-af298cf22b80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-left']/div/ul/li[2]/ul/li/a</value>
+      <webElementGuid>fb13a683-a8d2-4458-b078-b63cfe7983aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring'])[1]/following::a[1]</value>
+      <webElementGuid>99b8f271-680b-44b9-86ad-d02df97dd88c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
+      <webElementGuid>8a99ab82-5048-4084-9b26-4d7c4b8cf09e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring PL Tidak Restruk'])[1]/preceding::a[1]</value>
+      <webElementGuid>6b3e1726-934f-4c09-a3eb-5e136cc2ecd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://172.18.136.165:1097/c_suspect_amk']</value>
+      <webElementGuid>f2c1a7cd-84bc-4ff7-af1b-66dfbe6e3e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a</value>
+      <webElementGuid>e44a05c7-8677-4fee-99f0-8d6be6ff2db7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://172.18.136.165:1097/c_suspect_amk' and (text() = 'Monitoring Debitur' or . = 'Monitoring Debitur')]</value>
+      <webElementGuid>fd5fc778-cd12-49aa-ba9e-d8903152479c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

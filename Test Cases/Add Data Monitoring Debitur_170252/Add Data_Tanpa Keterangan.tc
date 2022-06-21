@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add Data, CIF ditemukan, Rekening ditemukan, Dokumen ditambahkan, dicoba kondisi tidak diberi keterangan saat menympan data.</description>
+   <name>Add Data_Tanpa Keterangan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb88497f-e4ae-4246-aac2-9003d356b148</testCaseGuid>
+</TestCaseEntity>

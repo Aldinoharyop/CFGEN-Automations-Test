@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Aplikasi Pendukung_arrow fa fa-angle-down</name>
+   <tag></tag>
+   <elementGuidId>b3970a50-5f48-4bee-be13-a1728e2cc849</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu']/ul/li[10]/a/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>64322075-c3f1-4129-9ef0-57990258730f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrow fa fa-angle-down</value>
+      <webElementGuid>eea2052d-fa9a-47f8-bf7d-d318ac801904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/ul[@class=&quot;nav nav-list nav-show&quot;]/li[10]/a[@class=&quot;dropdown-toggle&quot;]/b[@class=&quot;arrow fa fa-angle-down&quot;]</value>
+      <webElementGuid>25d705eb-67d1-4c92-ae83-b06e1b1d876f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu']/ul/li[10]/a/b</value>
+      <webElementGuid>8086e8e5-d179-4e23-bfcc-d8056728542b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a/b</value>
+      <webElementGuid>c96aa84d-5ecc-4aaf-b681-ea59a38814e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

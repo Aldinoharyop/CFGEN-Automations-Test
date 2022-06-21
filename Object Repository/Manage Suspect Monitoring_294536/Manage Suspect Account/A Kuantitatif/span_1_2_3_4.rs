@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>a036d0be-4123-4351-aa55-d89d95aac580</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uniform-quest2op1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#uniform-quest2op1 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8038d5ed-a717-4831-915c-cc1e24a09b62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uniform-quest2op1&quot;)/span[1]</value>
+      <webElementGuid>3d5c8db0-8e51-4761-9c28-446ce523fbd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uniform-quest2op1']/span</value>
+      <webElementGuid>04156c47-2de0-40fb-8595-204a2e570f82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pada saat jatuh tempo'])[1]//span[1]</value>
+      <webElementGuid>717e9efd-c4df-4c08-bd3d-92cb84d7e9c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[2]/following::span[1]</value>
+      <webElementGuid>fd63a7c0-613d-4602-8aab-57e55c51ff4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sesuai periode pembayaran yang telah ditentukan'])[1]/preceding::span[1]</value>
+      <webElementGuid>34b21c10-02aa-411f-9bda-35ea80b4022d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[3]/preceding::span[2]</value>
+      <webElementGuid>aaa2f20a-f2e0-448b-a7b0-6347d3185c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td/label/div/span</value>
+      <webElementGuid>15a29d99-c637-4c0f-bcfe-e2fec9f1a8d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

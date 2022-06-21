@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Donwload Excel</name>
+   <tag></tag>
+   <elementGuidId>49492402-4413-4c9e-82b8-fbc771c91618</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab2']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-info</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>21452b6e-e3fd-4e2d-af1a-1160105e9749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info</value>
+      <webElementGuid>3e77b1c7-9b47-4737-9174-effd101deed4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://172.18.136.165:1097/c_suspect_pinca/view_cashflow_excel</value>
+      <webElementGuid>ed364fe0-56d0-4167-bbf3-144d78199c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Donwload Excel</value>
+      <webElementGuid>bf18592c-278a-4627-a3fb-a1897ca8dadf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab2&quot;)/div[1]/div[1]/a[@class=&quot;btn btn-info&quot;]</value>
+      <webElementGuid>0e77eeb1-dc12-4fc2-840c-1218c70abab1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab2']/div/div/a</value>
+      <webElementGuid>ae7e3ae3-b5b1-4089-9373-38f6138da752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Donwload Excel')]</value>
+      <webElementGuid>e9712184-e4ad-4470-9edf-5bae4ac679b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kemampuan Bayar'])[1]/following::a[1]</value>
+      <webElementGuid>11b415c2-4453-4921-bdfc-7e889b5f66a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PV'])[1]/following::a[1]</value>
+      <webElementGuid>901c2260-4f93-4600-9f24-faa6071a8c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/preceding::a[1]</value>
+      <webElementGuid>da06ee42-cfe4-4935-a4fc-658ac4903dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JENIS AGUNAN'])[1]/preceding::a[1]</value>
+      <webElementGuid>f4f808ff-b166-4101-957e-6147a44c36b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Donwload Excel']/parent::*</value>
+      <webElementGuid>a3e9253b-4732-4cea-89f4-fc2ce432b403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://172.18.136.165:1097/c_suspect_pinca/view_cashflow_excel']</value>
+      <webElementGuid>cb0e03cf-58ef-4489-9103-ff7fe02ece54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>2d6edf36-20a7-4a6b-8b6d-c6379926dd09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://172.18.136.165:1097/c_suspect_pinca/view_cashflow_excel' and (text() = 'Donwload Excel' or . = 'Donwload Excel')]</value>
+      <webElementGuid>3d64c5be-468a-411f-b58b-d6d1bc4f0af1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambahkan data CIF yang ternyata tidak ditemukan di DB. Atau bisa juga ketika data rekening dari CIF tersebut tidak ditemukan.</description>
+   <name>dum</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d81e8b4d-508e-47d1-b9dc-d25c4d790500</testCaseGuid>
+</TestCaseEntity>

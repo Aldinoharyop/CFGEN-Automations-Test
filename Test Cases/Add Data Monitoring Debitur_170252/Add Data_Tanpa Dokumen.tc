@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menyimpan data, CIF ditemukan, Rekening Ditemukan,ketika akan menyimpan kondisi disimpan tanpa dokumen.</description>
+   <name>Add Data_Tanpa Dokumen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8882e2e2-1497-409e-8925-d62b49f9dd13</testCaseGuid>
+</TestCaseEntity>

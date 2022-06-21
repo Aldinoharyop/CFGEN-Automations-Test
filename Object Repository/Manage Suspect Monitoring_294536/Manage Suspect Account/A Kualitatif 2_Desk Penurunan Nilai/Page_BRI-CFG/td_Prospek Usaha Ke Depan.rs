@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Prospek Usaha Ke Depan</name>
+   <tag></tag>
+   <elementGuidId>6c5f8a7e-b3f0-45b2-9b13-8ed17cd94635</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div[2]/form/table/tbody/tr[7]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>52b3fcd7-f9eb-4139-b9f5-2b6816a4bce4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prospek Usaha Ke Depan</value>
+      <webElementGuid>ce40259f-7b9f-4382-a96d-acfbf1b1d833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;well fix&quot;]/form[1]/table[@class=&quot;table&quot;]/tbody[1]/tr[7]/td[1]</value>
+      <webElementGuid>657d26b2-6edb-4a85-b4f4-06a50916fc70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div[2]/form/table/tbody/tr[7]/td</value>
+      <webElementGuid>c5e55fd4-4303-40f8-ad32-e85e56daf65b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PTPN X menjadi bagian restrukturisasi PTPN Group'])[1]/following::td[1]</value>
+      <webElementGuid>9856a712-aaa4-4df0-9812-1796cb5ed71b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyebab Kredit Bermasalah'])[1]/following::td[2]</value>
+      <webElementGuid>efd1963a-1358-41fc-abdc-0dff3e5dde9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analisis Agunan Sebagai Sumber Pembayaran'])[1]/preceding::td[2]</value>
+      <webElementGuid>37b06d15-4a19-42b6-9673-ca9232f42830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/table/tbody/tr[7]/td</value>
+      <webElementGuid>5aaeb21f-bf81-479c-b467-4b88875e2796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Prospek Usaha Ke Depan' or . = 'Prospek Usaha Ke Depan')]</value>
+      <webElementGuid>69f200cf-8908-4ec9-8b87-7f5e8d3d322b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

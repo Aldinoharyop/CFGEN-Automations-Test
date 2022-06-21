@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Debitur Suspect Cashloan</name>
+   <tag></tag>
+   <elementGuidId>26b96681-ad3a-4275-b84d-a46d369c1098</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar-left']/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>481feb96-4c28-4bae-a193-34e8b8fe4edb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://172.18.136.165:1097/c_suspect</value>
+      <webElementGuid>50cf4bcb-d5bd-4305-89de-0e5a468f229c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Debitur Suspect Cashloan</value>
+      <webElementGuid>c0567985-c309-446c-9c34-15ccb4a508bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-left&quot;)/div[@class=&quot;nav-collapse sidebar-nav&quot;]/ul[@class=&quot;nav nav-tabs nav-stacked main-menu&quot;]/li[2]/a[1]</value>
+      <webElementGuid>f0a726c0-3b34-4012-8b63-930ff2abf24a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-left']/div/ul/li[2]/a</value>
+      <webElementGuid>c958bd87-44f2-40ad-a5d1-989e0ff62919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>6a02cc39-67d9-4a3b-a3a4-21efc62ec2eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::a[2]</value>
+      <webElementGuid>1c0434a3-f0c2-4243-8792-9c205d9dd572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debitur Eksisting Cashloan'])[1]/preceding::a[1]</value>
+      <webElementGuid>7b4aecf2-e399-4329-b89c-661a43991d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://172.18.136.165:1097/c_suspect']</value>
+      <webElementGuid>533eb236-a5dc-48e0-a182-2e5f37b6dc3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/a</value>
+      <webElementGuid>fa916560-74c7-4d79-99af-989667c200d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://172.18.136.165:1097/c_suspect' and (text() = 'Debitur Suspect Cashloan' or . = 'Debitur Suspect Cashloan')]</value>
+      <webElementGuid>773d3ac5-197a-48aa-ae58-236b92b454dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

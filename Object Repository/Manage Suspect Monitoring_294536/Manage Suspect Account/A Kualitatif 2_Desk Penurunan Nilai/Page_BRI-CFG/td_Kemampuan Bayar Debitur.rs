@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Kemampuan Bayar Debitur</name>
+   <tag></tag>
+   <elementGuidId>1c58dbcd-d786-49a5-a353-56c8ed82f691</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div[2]/form/table/tbody/tr[3]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e65ecf16-c2c5-4ea7-be17-42de4b401dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kemampuan Bayar Debitur</value>
+      <webElementGuid>b5d35b10-13aa-4afd-bed3-836450c9ff7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;well fix&quot;]/form[1]/table[@class=&quot;table&quot;]/tbody[1]/tr[3]/td[1]</value>
+      <webElementGuid>2a69cb6f-cbe7-4e97-a67b-57adbdf3a922</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div[2]/form/table/tbody/tr[3]/td</value>
+      <webElementGuid>e5f07f10-c04c-402f-8570-4b246541591a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kondisi Usaha Saat Ini'])[1]/following::td[2]</value>
+      <webElementGuid>9347a38e-8985-4411-a404-9845a796d09d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyebab Kredit Bermasalah'])[1]/preceding::td[2]</value>
+      <webElementGuid>a147f481-7c40-4743-98a2-e7dfb7491447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/table/tbody/tr[3]/td</value>
+      <webElementGuid>6860def7-49f8-4efc-8f88-f5ea1e697c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Kemampuan Bayar Debitur' or . = 'Kemampuan Bayar Debitur')]</value>
+      <webElementGuid>ccb73144-4973-4f5e-9e2e-01871cd4ccb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

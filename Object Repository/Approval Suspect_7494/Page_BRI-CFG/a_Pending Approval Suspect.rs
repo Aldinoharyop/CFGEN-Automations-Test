@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pending Approval Suspect</name>
+   <tag></tag>
+   <elementGuidId>b6aa147c-4b10-4938-ace0-dcb13115e721</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar-left']/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7499af9a-d9af-4d12-b2a5-1e98bb9b78ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://172.18.136.165:1097/c_suspect_pinca</value>
+      <webElementGuid>2c965adc-5d36-445b-b879-423ba3bf4fe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pending Approval Suspect</value>
+      <webElementGuid>e94b4af2-1e2f-4066-b891-ade67efdc27d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-left&quot;)/div[@class=&quot;nav-collapse sidebar-nav&quot;]/ul[@class=&quot;nav nav-tabs nav-stacked main-menu&quot;]/li[3]/a[1]</value>
+      <webElementGuid>bda2305b-40a5-4db2-a131-fee487365589</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-left']/div/ul/li[3]/a</value>
+      <webElementGuid>f7658fb4-0e5a-4673-813a-a213656e5d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring Debitur'])[1]/following::a[1]</value>
+      <webElementGuid>6ca22e2e-a059-472a-962a-cea2c5b29383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring'])[1]/following::a[2]</value>
+      <webElementGuid>eb356f06-f50b-4d85-a27f-319fdb501dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending Approval PL Tidak Restruk'])[1]/preceding::a[1]</value>
+      <webElementGuid>14033501-1c36-4b2e-9f1a-7cbdb24b58b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://172.18.136.165:1097/c_suspect_pinca']</value>
+      <webElementGuid>e6bda44b-a725-4f6e-9489-d436def91bc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>38cbcdbf-4195-4945-8d43-8d9e66c9ffaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://172.18.136.165:1097/c_suspect_pinca' and (text() = 'Pending Approval Suspect' or . = 'Pending Approval Suspect')]</value>
+      <webElementGuid>c0e4ef17-f837-4e28-a417-1be3cf271cef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
