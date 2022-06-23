@@ -17,6 +17,21 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+//connect db
+import java.sql.Connection as Connection
+import java.sql.ResultSet as ResultSet
+import com.katalon.plugin.keyword.connection.DBType as DBType
+import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
+
+Connection connection = null
+
+ResultSet cif
+ResultSet addCif
+ResultSet keterangan
+ResultSet dokumen
+
+connection = CustomKeywords.'com.katalon.plugin.keyword.connection.DatabaseKeywords.createConnection'(DBType.sqlserver,
+	'172.18.136.163', '1433', 'RP_INDIVIDUAL', 'sa', 'UEBzc3cwcmQ=')
 
 WebUI.openBrowser('')
 
@@ -52,6 +67,12 @@ WebUI.setText(findTestObject('Object Repository/Testing Add Data Monitoring Debi
 
 WebUI.click(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/button_Search'))
 
+//Ambil Value cifNo
+cifNo = WebUI.getAttribute(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/input_Cari Berdasarkan CIF_inpSearch'),
+   "value" )
+query = "SELECT CIFNO FROM [RP_INDIVIDUAL].[dbo].[CFGEN_ACCOUNT] WHERE CIFNO = '" + cifNo + "'"
+print(query)
+
 WebUI.click(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/button_Add CIF'))
 
 WebUI.uploadFile(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/input__file'), 'D:\\NumbersColoringBook.pdf')
@@ -60,7 +81,7 @@ WebUI.uploadFile(findTestObject('Object Repository/Testing Add Data Monitoring D
 //
 //WebUI.verifyMatch(FilePath, 'D:\\fakepath\\NumbersColoringBook.pdf', false)
 
-WebUI.click(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/button_Simpan'))
+//WebUI.click(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/button_Simpan'))
 
 WebUI.takeFullPageScreenshot()
 

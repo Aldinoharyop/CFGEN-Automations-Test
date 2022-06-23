@@ -25,9 +25,13 @@ import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 Connection connection = null
 
 ResultSet cif
+ResultSet addCif
+ResultSet keterangan
+ResultSet dokumen
 
 connection = CustomKeywords.'com.katalon.plugin.keyword.connection.DatabaseKeywords.createConnection'(DBType.sqlserver, 
     '172.18.136.163', '1433', 'RP_INDIVIDUAL', 'sa', 'UEBzc3cwcmQ=')
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://172.18.136.165:82/')
@@ -58,15 +62,17 @@ WebUI.click(findTestObject('Object Repository/Testing Add Data Monitoring Debitu
 WebUI.click(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/button_Tambah Data'))
 
 WebUI.setText(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/input_Cari Berdasarkan CIF_inpSearch'),
-	'IGQ4308')
+	'NEPY420')
 
 WebUI.click(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/button_Search'))
-//Aambil Value
+
+//Ambil Value cifNo
 cifNo = WebUI.getAttribute(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/input_Cari Berdasarkan CIF_inpSearch'),
    "value" )
 query = "SELECT CIFNO FROM [RP_INDIVIDUAL].[dbo].[CFGEN_ACCOUNT] WHERE CIFNO = '" + cifNo + "'"
 print(query)
-// Validasi
+
+// Validasi apakah CIF memang benar ada di tabel CFGEN_ACCOUNT
 cif = CustomKeywords.'com.katalon.plugin.keyword.connection.DatabaseKeywords.executeQuery'(connection,"SELECT CIFNO FROM [RP_INDIVIDUAL].[dbo].[CFGEN_ACCOUNT] WHERE CIFNO = '" + cifNo + "'")
 WebUI.verifyMatch(cifNo,CustomKeywords.'com.katalon.plugin.keyword.connection.ResultSetKeywords.getSingleCellValue'(cif, 1, 'CIFNO'),true)
 
@@ -74,6 +80,25 @@ WebUI.click(findTestObject('Object Repository/Testing Add Data Monitoring Debitu
 
 WebUI.setText(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/input__ket'), 'qew')
 
-WebUI.click(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/button_Simpan'))
+WebUI.uploadFile(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/input__file'), 'D:\\NumbersColoringBook.pdf')
 
-WebUI.dismissAlert()
+
+//print(query)
+//WebUI.click(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/button_Simpan'))
+
+//WebUI.dismissAlert()
+
+//Validasi apakah CIF benar tersimpan di tabel CFGEN_ADD_ACCOUNT
+addCif = CustomKeywords.'com.katalon.plugin.keyword.connection.DatabaseKeywords.executeQuery'(connection,"SELECT CIFNO FROM [RP_INDIVIDUAL].[dbo].[CFGEN_ADD_ACCOUNT] WHERE CIFNO = '" + cifNo + "'")
+WebUI.verifyMatch(cifNo,CustomKeywords.'com.katalon.plugin.keyword.connection.ResultSetKeywords.getSingleCellValue'(addCif, 1, 'CIFNO'),true)
+queryAddCif = "SELECT CIFNO FROM [RP_INDIVIDUAL].[dbo].[CFGEN_ADD_ACCOUNT] WHERE CIFNO = '" + cifNo + "'"
+print(queryAddCif)
+//Ambil value keterangan / komen
+komen = WebUI.getAttribute(findTestObject('Object Repository/Testing Add Data Monitoring Debitur_170252/Page_BRI-CFG/input__ket'), "value")
+queryKomen = "SELECT KETERANGAN FROM [RP_INDIVIDUAL].[dbo].[CFGEN_MANUAL_INPUT_FILE]] WHERE KETERANGAN = '" + komen + "'"
+print(queryKomen)
+//Validasi apakah Keterangan benar tersimpan di tabel [RP_INDIVIDUAL].[dbo].[CFGEN_MANUAL_INPUT_FILE]
+addKomen = CustomKeywords.'com.katalon.plugin.keyword.connection.DatabaseKeywords.executeQuery'(connection,"SELECT KETERANGAN FROM [RP_INDIVIDUAL].[dbo].[CFGEN_MANUAL_INPUT_FILE] WHERE KETERANGAN = '" + komen + "'")
+WebUI.verifyMatch(komen,CustomKeywords.'com.katalon.plugin.keyword.connection.ResultSetKeywords.getSingleCellValue'(addKomen, 1, 'KETERANGAN'),true)
+
+//Ambil Value Dokumen
